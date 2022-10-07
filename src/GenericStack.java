@@ -1,5 +1,5 @@
 // supression of unchecked typecast warnings
-// initial cast happens at stack instantiation, wihtout possible modification
+// initial cast happens at stack instantiation, without possible modification
 @SuppressWarnings("unchecked")
 
 /*
