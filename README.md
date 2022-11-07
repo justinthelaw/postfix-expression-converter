@@ -1,12 +1,12 @@
 # Program Execution Instructions
 
-## PROJECT 01: Use of Stacks
+## PROJECT 02: Use of Stacks
 
 ## Usage Instructions
 
 The source code in this assignment can be compiled with JDK 17+ from the command line.
 
-To run the program, enter:  `java Project-01 [inputFile] [outputfile]`.
+To run the program, enter:  `java Project-02 [inputFile] [outputfile]`.
 
 This program was written in VSCode v1.71.2 in WSL 2.0, Ubuntu 20.04.4 LTS, with OpenJDK 17.0.3.
 
